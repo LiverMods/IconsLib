@@ -1,8 +1,6 @@
-![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-red?style=for-the-badge) 
-
 # Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-Copyright (c) 2026 Liver zMods
+## Copyright (c) 2026 Liver zMods
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-red?style=for-the-badge) 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
