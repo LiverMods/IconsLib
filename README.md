@@ -9,6 +9,8 @@
 ## What is this?
 IconsLib was built to make UI development and scripting easier. Instead of hunting down icon IDs on external websites, this script provides a clean, animated, and highly optimized interface to search and copy icons on the fly.
 
+![IconsLib UI Demonstration](./demo.png)
+
 ## Features
 * **10+ Icon Libraries:** Includes Material Icons, Lucide, Phosphor, SF Symbols, Fluency, and more.
 * **Anti-Lag Search:** Built-in debounce mechanism so typing fast won't freeze your game.
