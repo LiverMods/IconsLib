@@ -547,5 +547,6 @@ App.Init()
              Commercial use or selling is STRICTLY PROHIBITED. 
              Original credits must be kept intact.
              More info: https://creativecommons.org/licenses/by-nc/4.0/
+             More info: https://github.com/LiverMods/IconsLib/blob/main/LICENSE.md
 ===========================================================================
 ]]
