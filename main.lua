@@ -117,17 +117,17 @@ local State = {
     },
 
     LIBRARIES = {
-        {"Material", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/master/MaterialIcons.luau"},
-        {"Lucide LM", "https://gist.githubusercontent.com/LiverMods/2c0de5e253e50248710bce8603673042/raw/Icons.lua"},
-        {"Lucide", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/master/LucideIcons.luau"},
-        {"SFS LM", "https://gist.githubusercontent.com/LiverMods/e917422db23a4787b4855769889ac232/raw/39bc4d03c973a8661674b49dcee64c29be2e6a15/Icons2"},
-        {"Phosphor", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/Phosphor.luau"},
-        {"Phosphor Filled", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/Phosphor%20Filled.luau"},
-        {"SF Symbols", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/SFSymbols.luau"},
-        {"Symbols", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/Symbols.luau"},
-        {"Symbols Filled", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/Symbols-Filled.luau"},
-        {"Lucide Lab", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/LucideLab.luau"},
-        {"Fluency", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/Fluency.luau"}
+        {"Fluency", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Fluency.lua"},
+        {"Lucide_LM", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Lucide_LM.lua"},
+        {"Lucide", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Lucide.lua"},
+        {"Lucide_Lab", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Lucide_Lab.lua"},
+        {"SFS_LM", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/SFS_LM.lua"},
+        {"SF_Symbols", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/SF_Symbols.lua"},
+        {"Material", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Material.lua"},
+        {"Phosphor", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Phosphor.lua"},
+        {"Phosphor_Filled", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Phosphor_Filled.lua"},
+        {"Symbols", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Symbols.lua"},
+        {"Symbols_Filled", "https://raw.githubusercontent.com/LiverMods/IconsLib/refs/heads/main/Folder/IconsLib/Symbols_Filled.lua"}
     },
     
     CONFIG = { LangIndex = 1, LibIndex = 2, FormatIndex = 1, SizeIndex = 2, Notify = true, CloseOnCopy = false, SecureCopy = false }
