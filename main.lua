@@ -120,6 +120,7 @@ local State = {
         {"Material", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/master/MaterialIcons.luau"},
         {"Lucide LM", "https://gist.githubusercontent.com/LiverMods/2c0de5e253e50248710bce8603673042/raw/Icons.lua"},
         {"Lucide", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/master/LucideIcons.luau"},
+        {"SFS LM", "https://gist.githubusercontent.com/LiverMods/e917422db23a4787b4855769889ac232/raw/39bc4d03c973a8661674b49dcee64c29be2e6a15/Icons2"},
         {"Phosphor", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/Phosphor.luau"},
         {"Phosphor Filled", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/Phosphor%20Filled.luau"},
         {"SF Symbols", "https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/refs/heads/master/SFSymbols.luau"},
@@ -547,6 +548,5 @@ App.Init()
              Commercial use or selling is STRICTLY PROHIBITED. 
              Original credits must be kept intact.
              More info: https://creativecommons.org/licenses/by-nc/4.0/
-             More info: https://github.com/LiverMods/IconsLib/blob/main/LICENSE.md
 ===========================================================================
 ]]
